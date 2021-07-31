@@ -46,5 +46,4 @@ Hi there, I'm Denis Oliveira 👋
 </div>
 
 Thank you for visiting!
-
-![](https://komarev.com/ghpvc/?username=denisoliveira1&color=brightgreen)
+<img align="right" src="https://komarev.com/ghpvc/?username=denisoliveira1&color=brightgreen">
