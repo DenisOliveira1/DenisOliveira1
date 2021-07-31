@@ -2,7 +2,7 @@ Hi there, I'm Denis Oliveira 👋
 
  
 - 💻 Working as a Front-End / Back-End Web Developer
-- 🧠 Learning Angular, .NET and IA
+- 🧠 Learning Angular, .NET and AI
 
 <div>
   <a href="https://github.com/denisoliveira1">
@@ -25,8 +25,8 @@ Hi there, I'm Denis Oliveira 👋
   <img align="center" alt="Denis-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Denis-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
   <img align="right"
-     width="150"
-     height="150"
+     width="120"
+     height="120"
      alt="Denis-Chocobo"
      src="https://forum.playboundless.com/uploads/default/original/3X/9/6/962f39afac4ef95a79eca9ee8ca711fcf70514c4.gif">
 
@@ -39,7 +39,8 @@ Hi there, I'm Denis Oliveira 👋
   <a href="https://www.linkedin.com/in/denisboliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://discordapp.com/users/5017" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
 
 Thank you for visiting!
