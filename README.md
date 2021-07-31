@@ -2,7 +2,7 @@ Hi there, I'm Denis Oliveira 👋
 
  
 - 💻 Working as a Front-End / Back-End Web Developer
-- 🧠 Learning Angular, .NET and AI
+- 🧠 Learning Angular, .NET, Artificial Intelligence and Machine Learning
 
 <div>
   <a href="https://github.com/denisoliveira1">
@@ -12,7 +12,9 @@ Hi there, I'm Denis Oliveira 👋
 
 <div style="display: inline_block">
   <br>
+
   <img align="center" alt="Denis-Dotnet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
+  <img align="center" alt="Denis-CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="Denis-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Denis-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Denis-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
@@ -44,3 +46,5 @@ Hi there, I'm Denis Oliveira 👋
 </div>
 
 Thank you for visiting!
+
+![](https://komarev.com/ghpvc/?username=denisoliveira1&color=brightgreen)
