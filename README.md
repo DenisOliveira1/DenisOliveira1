@@ -36,12 +36,21 @@ Hi there, I'm Denis Oliveira 👋
 
 ##
 
-<div> 
-  <a href = "mailto:denisb.oliveira@live.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/denisboliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://discordapp.com/users/5017" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+<div>
+  <a href="https://www.linkedin.com/in/denisboliveira" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+   <a href = "mailto:denisb.oliveira@live.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://discordapp.com/users/5017" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+  </a>
+</div>
+ 
+
   
-![Snake animation](https://github.com/denisoliveira1/denisoliveira1/blob/output/github-contribution-grid-snake.svg)
+![Snake animathttps://aleen42.github.io/badges/src/wechat.svgion](https://github.com/denisoliveira1/denisoliveira1/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
