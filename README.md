@@ -7,7 +7,7 @@ Hi there, I'm Denis Oliveira 👋
 <div>
   <a href="https://github.com/denisoliveira1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=denisoliveira1&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denisoliveira1&layout=compact&langs_count=8&theme=slateorange&hide=digital%20command%20language"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denisoliveira1&exclude_repo=curso_web_moderno&layout=compact&langs_count=8&theme=slateorange&hide=digital%20command%20language"/>
 </div>
 
 <div style="display: inline_block">
